@@ -1,0 +1,43 @@
+StreetBranch[0][0] = 120
+MallBranch[0][0] = 220
+StreetBranch[0][1] = 330
+MallBranch[0][1] = 41
+StreetBranch[0][2] = 520
+MallBranch[0][2] = 430
+StreetBranch[1][0] = 630
+MallBranch[1][0] = 540
+StreetBranch[1][1] = 510
+MallBranch[1][1] = 150
+StreetBranch[1][2] = 740
+MallBranch[1][2] = 410
+StreetBranch[2][0] = 320
+MallBranch[2][0] = 120
+StreetBranch[2][1] = 960
+MallBranch[2][1] = 640
+StreetBranch[2][2] = 620
+MallBranch[2][2] = 810
+StreetBranch[3][0] = 730
+MallBranch[3][0] = 520
+StreetBranch[3][1] = 970
+MallBranch[3][1] = 500
+StreetBranch[3][2] = 300
+MallBranch[3][2] = 700
+Combined sales for JAN is 340
+Combined sales for FEB is 371
+Combined sales for MAR is 950
+Combined sales for APR is 1170
+Combined sales for MAY is 660
+Combined sales for JUN is 1150
+Combined sales for JUL is 440
+Combined sales for AUG is 1600
+Combined sales for SEP is 1430
+Combined sales for OCT is 1250
+Combined sales for NOV is 1470
+Combined sales for DEC is 1000
+The combined sales for Quarter 1 is 1661
+The combined sales for Quarter 2 is 2980
+The combined sales for Quarter 3 is 3470
+The combined sales for Quarter 4 is 3720
+StreetBranch annual total = 6750
+MallBranch annual total = 5081
+GrandTotal = 11831

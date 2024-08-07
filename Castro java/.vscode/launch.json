@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Argument",
+            "request": "launch",
+            "mainClass": "Argument",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment",
+            "request": "launch",
+            "mainClass": "Assignment",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "CastroAgain",
+            "request": "launch",
+            "mainClass": "CastroAgain",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "CastroAgain2",
+            "request": "launch",
+            "mainClass": "CastroAgain2",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Cube",
+            "request": "launch",
+            "mainClass": "Cube",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Dope",
+            "request": "launch",
+            "mainClass": "Dope",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Faadila",
+            "request": "launch",
+            "mainClass": "Faadila",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Farouk",
+            "request": "launch",
+            "mainClass": "Farouk",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Grading",
+            "request": "launch",
+            "mainClass": "Grading",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Holiday",
+            "request": "launch",
+            "mainClass": "Holiday",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Holidaygpt",
+            "request": "launch",
+            "mainClass": "Holidaygpt",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Jadagwa",
+            "request": "launch",
+            "mainClass": "Jadagwa",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "MMain",
+            "request": "launch",
+            "mainClass": "MMain",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Methodoverloading",
+            "request": "launch",
+            "mainClass": "Methodoverloading",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Ocurrence",
+            "request": "launch",
+            "mainClass": "Ocurrence",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Primenumber",
+            "request": "launch",
+            "mainClass": "Primenumber",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Raphea",
+            "request": "launch",
+            "mainClass": "Raphea",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "Readfile",
+            "request": "launch",
+            "mainClass": "Readfile",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "ShopOwner1",
+            "request": "launch",
+            "mainClass": "ShopOwner1",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "ShopOwnerFile",
+            "request": "launch",
+            "mainClass": "ShopOwnerFile",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "My java_53e5616f"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "My java_53e5616f"
+        }
+    ]
+}
